@@ -70,7 +70,7 @@ Install pip3
 Download and launch a docker elk container
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![docker.ps](Natalie-Cybersecurity/blob/main/ps%20.png)
+![docker.ps](https://github.com/NatalieTiona/Natalie-Cybersecurity/blob/main/ps%20.png)
 
  
 ### Target Machines & Beats
