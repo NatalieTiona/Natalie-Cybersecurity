@@ -2,12 +2,12 @@
 
 The files in this repository were used to configure the network depicted below.
 
-!(https://github.com/NatalieTiona/Natalie-Cybersecurity/tree/main/Diagrams)
+(https://github.com/NatalieTiona/Natalie-Cybersecurity/tree/main/Diagrams)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  !(https://github.com/NatalieTiona/Natalie-Cybersecurity/blob/main/Ansible/filebeat-playbook.yml)
+ (https://github.com/NatalieTiona/Natalie-Cybersecurity/blob/main/Ansible/filebeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topologu
