@@ -46,7 +46,7 @@ The machines on the internal network are not exposed to the public Internet.
 Only the JumpBox machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
 - The IP address I have whitelisted is my personal IP
 
-Machines within the network can only be accessed by _____.
+Machines within the network can only be accessed by
 - The ELK server can be accessed from the WEB-1, WEB-2, and Jump Box machines
 
 A summary of the access policies in place can be found in the table below.
